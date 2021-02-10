@@ -1,0 +1,22 @@
+@charset "utf-8";
+h1 { 
+	color: aquamarine; 
+	text-decoration: inherit; 
+	font-size: 20px;
+}
+
+#my-id { 
+	background-color: cornflowerblue; 
+	font-style: oblique
+}
+
+.my-class { 
+	text-align: center;
+	margin: 10px
+}
+
+my.container {
+	margin: 10px;
+    border: 2px solid grey;
+    padding: 1em;
+}
