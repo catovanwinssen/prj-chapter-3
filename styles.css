@@ -2,10 +2,16 @@
 
 * { margin: 0; padding: 0; }
 
+header{
+	background-image:url("../images/hello.jpg");
+	font-family: "lato"
+}
+
 h1 { 
 	color: aquamarine; 
 	text-decoration: inherit; 
 	font-size: 20px;
+	font-family: "lato"
 }
 
 #my-id { 
@@ -26,4 +32,3 @@ h1 {
 	margin-left: auto;
 	margin-right: auto;
 }
-
